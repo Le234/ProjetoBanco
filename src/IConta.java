@@ -8,4 +8,6 @@ public interface IConta {
 
      void imprimirExtrato();
 
+     void adicionarCliente(String banco);
+
 }

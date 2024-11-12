@@ -10,5 +10,11 @@ public class ContaPoupanca extends Conta {
 		super.imprimirInfosComuns();
 	}
 
+	@Override
+	public void adicionarCliente(String banco) {
+		// TODO Auto-generated method stub
+		throw new UnsupportedOperationException("Unimplemented method 'adicionarCliente'");
+	}
+
 
 }
